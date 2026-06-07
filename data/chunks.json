@@ -1,0 +1,431 @@
+[
+  {
+    "text": "Model: BZH\n作業系統: Windows 11 Pro (GIGABYTE recommends Windows 11 Pro for business.) Windows 11 Home UEFI Shell OS\n中央處理器: Intel® Core™ Ultra 9 Processor 275HX (36MB cache, up to 5.4 GHz, 24 cores, 24 threads)\n顯示晶片: NVIDIA® GeForce RTX™ 5090 Laptop GPU 24GB GDDR7 175W Maximum Graphics Power with Dynamic Boost* AI Boost : 1797 MHz (1597 MHz Boost Clock + 200 MHz OC)* *May vary by scenario\n顯示器: 16\" 16:10 OLED WQXGA (2560×1600) 240Hz, 1ms, DCIP-3 100%, 500nits (peak), 1,000,000:1 NVIDIA® G-SYNC® NVIDIA® Advanced Optimus VESA DisplayHDR True Black 500 VESA ClearMR 10000 Pantone® Validated TÜV Rheinland Low Blue Light Dolby Vision®\n記憶體: Up to 64GB DDR5 5600MHz * 2x SO-DIMM sockets for expansion\n儲存裝置: 1x PCIe Gen5 M.2 slot 1x PCIe Gen4x4 M.2 slots Up to 4TB PCIe NVMe™ M.2 SSD *The storage capacity may differ by country and region. Please contact your local dealers or retailers for the latest product information. **If there is any abnormality that cannot be attributed to Gigabyte/AORUS during the warranty period, it is not covered by the warranty. More info: https://member.aorus.com/global/productwarranty\n鍵盤種類: 3-zone RGB Backlit Keyboard, Up to 1.7mm Key-travel (Support N-Key)\n連接埠: Left Side: 1 x DC in 1 x RJ-45 1 x HDMI 2.1 1 x Type-A support USB3.2 Gen2 1 x Type-C with Thunderbolt™5 (support USB4, DisplayPort™ 2.1 and Power Delivery 3.0) Right Side: 1 x Type-A support USB3.2 Gen2 1 x Type-C with Thunderbolt™4 (support USB4, DisplayPort™ 1.4 and Power Delivery 3.0) 1 x MicroSD (UHS-II) 1 x Audio Jack support mic / headphone combo\n音效: 4x 2W speakers Microphone Dolby Atmos® Smart Amp Technology\n通訊: WIFI 7 (802.11be 2x2) LAN: 1G Bluetooth v5.4\n視訊鏡頭: FHD (1080p) IR Webcam Build-in array Microphone Support Windows Hello Face Authentication\n安全裝置: Firmware-based TPM, supports Intel® Platform Trust Technology (Intel® PTT)\n電池: Li-ion 99Wh\n變壓器: 330W AC Adapter\n尺寸: 357 x 254 x 23~29.9 mm *The dimensions of the laptop may vary according to the configuration, manufacturing process and measurement method, please refer to the actual situation.\n重量: ~2.5 kg *The weight of the laptop may vary according to the configuration, manufacturing process and measurement method, please refer to the actual situation.\n顏色: Dark Tide",
+    "metadata": {
+      "sku": "BZH",
+      "type": "sku"
+    }
+  },
+  {
+    "text": "BZH | 作業系統: Windows 11 Pro (GIGABYTE recommends Windows 11 Pro for business.) Windows 11 Home UEFI Shell OS",
+    "metadata": {
+      "sku": "BZH",
+      "field": "作業系統",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BZH | 中央處理器: Intel® Core™ Ultra 9 Processor 275HX (36MB cache, up to 5.4 GHz, 24 cores, 24 threads)",
+    "metadata": {
+      "sku": "BZH",
+      "field": "中央處理器",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BZH | 顯示晶片: NVIDIA® GeForce RTX™ 5090 Laptop GPU 24GB GDDR7 175W Maximum Graphics Power with Dynamic Boost* AI Boost : 1797 MHz (1597 MHz Boost Clock + 200 MHz OC)* *May vary by scenario",
+    "metadata": {
+      "sku": "BZH",
+      "field": "顯示晶片",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BZH | 顯示器: 16\" 16:10 OLED WQXGA (2560×1600) 240Hz, 1ms, DCIP-3 100%, 500nits (peak), 1,000,000:1 NVIDIA® G-SYNC® NVIDIA® Advanced Optimus VESA DisplayHDR True Black 500 VESA ClearMR 10000 Pantone® Validated TÜV Rheinland Low Blue Light Dolby Vision®",
+    "metadata": {
+      "sku": "BZH",
+      "field": "顯示器",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BZH | 記憶體: Up to 64GB DDR5 5600MHz * 2x SO-DIMM sockets for expansion",
+    "metadata": {
+      "sku": "BZH",
+      "field": "記憶體",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BZH | 儲存裝置: 1x PCIe Gen5 M.2 slot 1x PCIe Gen4x4 M.2 slots Up to 4TB PCIe NVMe™ M.2 SSD *The storage capacity may differ by country and region. Please contact your local dealers or retailers for the latest product information. **If there is any abnormality that cannot be attributed to Gigabyte/AORUS during the warranty period, it is not covered by the warranty. More info: https://member.aorus.com/global/productwarranty",
+    "metadata": {
+      "sku": "BZH",
+      "field": "儲存裝置",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BZH | 鍵盤種類: 3-zone RGB Backlit Keyboard, Up to 1.7mm Key-travel (Support N-Key)",
+    "metadata": {
+      "sku": "BZH",
+      "field": "鍵盤種類",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BZH | 連接埠: Left Side: 1 x DC in 1 x RJ-45 1 x HDMI 2.1 1 x Type-A support USB3.2 Gen2 1 x Type-C with Thunderbolt™5 (support USB4, DisplayPort™ 2.1 and Power Delivery 3.0) Right Side: 1 x Type-A support USB3.2 Gen2 1 x Type-C with Thunderbolt™4 (support USB4, DisplayPort™ 1.4 and Power Delivery 3.0) 1 x MicroSD (UHS-II) 1 x Audio Jack support mic / headphone combo",
+    "metadata": {
+      "sku": "BZH",
+      "field": "連接埠",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BZH | 音效: 4x 2W speakers Microphone Dolby Atmos® Smart Amp Technology",
+    "metadata": {
+      "sku": "BZH",
+      "field": "音效",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BZH | 通訊: WIFI 7 (802.11be 2x2) LAN: 1G Bluetooth v5.4",
+    "metadata": {
+      "sku": "BZH",
+      "field": "通訊",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BZH | 視訊鏡頭: FHD (1080p) IR Webcam Build-in array Microphone Support Windows Hello Face Authentication",
+    "metadata": {
+      "sku": "BZH",
+      "field": "視訊鏡頭",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BZH | 安全裝置: Firmware-based TPM, supports Intel® Platform Trust Technology (Intel® PTT)",
+    "metadata": {
+      "sku": "BZH",
+      "field": "安全裝置",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BZH | 電池: Li-ion 99Wh",
+    "metadata": {
+      "sku": "BZH",
+      "field": "電池",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BZH | 變壓器: 330W AC Adapter",
+    "metadata": {
+      "sku": "BZH",
+      "field": "變壓器",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BZH | 尺寸: 357 x 254 x 23~29.9 mm *The dimensions of the laptop may vary according to the configuration, manufacturing process and measurement method, please refer to the actual situation.",
+    "metadata": {
+      "sku": "BZH",
+      "field": "尺寸",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BZH | 重量: ~2.5 kg *The weight of the laptop may vary according to the configuration, manufacturing process and measurement method, please refer to the actual situation.",
+    "metadata": {
+      "sku": "BZH",
+      "field": "重量",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BZH | 顏色: Dark Tide",
+    "metadata": {
+      "sku": "BZH",
+      "field": "顏色",
+      "type": "field"
+    }
+  },
+  {
+    "text": "Model: BYH\n作業系統: Windows 11 Pro (GIGABYTE recommends Windows 11 Pro for business.) Windows 11 Home UEFI Shell OS\n中央處理器: Intel® Core™ Ultra 9 Processor 275HX (36MB cache, up to 5.4 GHz, 24 cores, 24 threads)\n顯示晶片: NVIDIA® GeForce RTX™ 5080 Laptop GPU 16GB GDDR7 175W Maximum Graphics Power with Dynamic Boost* AI Boost : 1902 MHz (1702 MHz Boost Clock + 200 MHz OC)* *May vary by scenario\n顯示器: 16\" 16:10 OLED WQXGA (2560×1600) 240Hz, 1ms, DCIP-3 100%, 500nits (peak), 1,000,000:1 NVIDIA® G-SYNC® NVIDIA® Advanced Optimus VESA DisplayHDR True Black 500 VESA ClearMR 10000 Pantone® Validated TÜV Rheinland Low Blue Light Dolby Vision®\n記憶體: Up to 64GB DDR5 5600MHz * 2x SO-DIMM sockets for expansion\n儲存裝置: 1x PCIe Gen5 M.2 slot 1x PCIe Gen4x4 M.2 slots Up to 4TB PCIe NVMe™ M.2 SSD *The storage capacity may differ by country and region. Please contact your local dealers or retailers for the latest product information. **If there is any abnormality that cannot be attributed to Gigabyte/AORUS during the warranty period, it is not covered by the warranty. More info: https://member.aorus.com/global/productwarranty\n鍵盤種類: 3-zone RGB Backlit Keyboard, Up to 1.7mm Key-travel (Support N-Key)\n連接埠: Left Side: 1 x DC in 1 x RJ-45 1 x HDMI 2.1 1 x Type-A support USB3.2 Gen2 1 x Type-C with Thunderbolt™5 (support USB4, DisplayPort™ 2.1 and Power Delivery 3.0) Right Side: 1 x Type-A support USB3.2 Gen2 1 x Type-C with Thunderbolt™4 (support USB4, DisplayPort™ 1.4 and Power Delivery 3.0) 1 x MicroSD (UHS-II) 1 x Audio Jack support mic / headphone combo\n音效: 4x 2W speakers Microphone Dolby Atmos® Smart Amp Technology\n通訊: WIFI 7 (802.11be 2x2) LAN: 1G Bluetooth v5.4\n視訊鏡頭: FHD (1080p) IR Webcam Build-in array Microphone Support Windows Hello Face Authentication\n安全裝置: Firmware-based TPM, supports Intel® Platform Trust Technology (Intel® PTT)\n電池: Li-ion 99Wh\n變壓器: 330W AC Adapter\n尺寸: 357 x 254 x 23~29.9 mm *The dimensions of the laptop may vary according to the configuration, manufacturing process and measurement method, please refer to the actual situation.\n重量: ~2.5 kg *The weight of the laptop may vary according to the configuration, manufacturing process and measurement method, please refer to the actual situation.\n顏色: Dark Tide",
+    "metadata": {
+      "sku": "BYH",
+      "type": "sku"
+    }
+  },
+  {
+    "text": "BYH | 作業系統: Windows 11 Pro (GIGABYTE recommends Windows 11 Pro for business.) Windows 11 Home UEFI Shell OS",
+    "metadata": {
+      "sku": "BYH",
+      "field": "作業系統",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BYH | 中央處理器: Intel® Core™ Ultra 9 Processor 275HX (36MB cache, up to 5.4 GHz, 24 cores, 24 threads)",
+    "metadata": {
+      "sku": "BYH",
+      "field": "中央處理器",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BYH | 顯示晶片: NVIDIA® GeForce RTX™ 5080 Laptop GPU 16GB GDDR7 175W Maximum Graphics Power with Dynamic Boost* AI Boost : 1902 MHz (1702 MHz Boost Clock + 200 MHz OC)* *May vary by scenario",
+    "metadata": {
+      "sku": "BYH",
+      "field": "顯示晶片",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BYH | 顯示器: 16\" 16:10 OLED WQXGA (2560×1600) 240Hz, 1ms, DCIP-3 100%, 500nits (peak), 1,000,000:1 NVIDIA® G-SYNC® NVIDIA® Advanced Optimus VESA DisplayHDR True Black 500 VESA ClearMR 10000 Pantone® Validated TÜV Rheinland Low Blue Light Dolby Vision®",
+    "metadata": {
+      "sku": "BYH",
+      "field": "顯示器",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BYH | 記憶體: Up to 64GB DDR5 5600MHz * 2x SO-DIMM sockets for expansion",
+    "metadata": {
+      "sku": "BYH",
+      "field": "記憶體",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BYH | 儲存裝置: 1x PCIe Gen5 M.2 slot 1x PCIe Gen4x4 M.2 slots Up to 4TB PCIe NVMe™ M.2 SSD *The storage capacity may differ by country and region. Please contact your local dealers or retailers for the latest product information. **If there is any abnormality that cannot be attributed to Gigabyte/AORUS during the warranty period, it is not covered by the warranty. More info: https://member.aorus.com/global/productwarranty",
+    "metadata": {
+      "sku": "BYH",
+      "field": "儲存裝置",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BYH | 鍵盤種類: 3-zone RGB Backlit Keyboard, Up to 1.7mm Key-travel (Support N-Key)",
+    "metadata": {
+      "sku": "BYH",
+      "field": "鍵盤種類",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BYH | 連接埠: Left Side: 1 x DC in 1 x RJ-45 1 x HDMI 2.1 1 x Type-A support USB3.2 Gen2 1 x Type-C with Thunderbolt™5 (support USB4, DisplayPort™ 2.1 and Power Delivery 3.0) Right Side: 1 x Type-A support USB3.2 Gen2 1 x Type-C with Thunderbolt™4 (support USB4, DisplayPort™ 1.4 and Power Delivery 3.0) 1 x MicroSD (UHS-II) 1 x Audio Jack support mic / headphone combo",
+    "metadata": {
+      "sku": "BYH",
+      "field": "連接埠",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BYH | 音效: 4x 2W speakers Microphone Dolby Atmos® Smart Amp Technology",
+    "metadata": {
+      "sku": "BYH",
+      "field": "音效",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BYH | 通訊: WIFI 7 (802.11be 2x2) LAN: 1G Bluetooth v5.4",
+    "metadata": {
+      "sku": "BYH",
+      "field": "通訊",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BYH | 視訊鏡頭: FHD (1080p) IR Webcam Build-in array Microphone Support Windows Hello Face Authentication",
+    "metadata": {
+      "sku": "BYH",
+      "field": "視訊鏡頭",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BYH | 安全裝置: Firmware-based TPM, supports Intel® Platform Trust Technology (Intel® PTT)",
+    "metadata": {
+      "sku": "BYH",
+      "field": "安全裝置",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BYH | 電池: Li-ion 99Wh",
+    "metadata": {
+      "sku": "BYH",
+      "field": "電池",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BYH | 變壓器: 330W AC Adapter",
+    "metadata": {
+      "sku": "BYH",
+      "field": "變壓器",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BYH | 尺寸: 357 x 254 x 23~29.9 mm *The dimensions of the laptop may vary according to the configuration, manufacturing process and measurement method, please refer to the actual situation.",
+    "metadata": {
+      "sku": "BYH",
+      "field": "尺寸",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BYH | 重量: ~2.5 kg *The weight of the laptop may vary according to the configuration, manufacturing process and measurement method, please refer to the actual situation.",
+    "metadata": {
+      "sku": "BYH",
+      "field": "重量",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BYH | 顏色: Dark Tide",
+    "metadata": {
+      "sku": "BYH",
+      "field": "顏色",
+      "type": "field"
+    }
+  },
+  {
+    "text": "Model: BXH\n作業系統: Windows 11 Pro (GIGABYTE recommends Windows 11 Pro for business.) Windows 11 Home UEFI Shell OS\n中央處理器: Intel® Core™ Ultra 9 Processor 275HX (36MB cache, up to 5.4 GHz, 24 cores, 24 threads)\n顯示晶片: NVIDIA® GeForce RTX™ 5070 Ti Laptop GPU 12GB GDDR7 140W Maximum Graphics Power with Dynamic Boost* AI Boost : 1962 MHz (1762 MHz Boost Clock + 200 MHz OC)* *May vary by scenario\n顯示器: 16\" 16:10 OLED WQXGA (2560×1600) 240Hz, 1ms, DCIP-3 100%, 500nits (peak), 1,000,000:1 NVIDIA® G-SYNC® NVIDIA® Advanced Optimus VESA DisplayHDR True Black 500 VESA ClearMR 10000 Pantone® Validated TÜV Rheinland Low Blue Light Dolby Vision®\n記憶體: Up to 64GB DDR5 5600MHz * 2x SO-DIMM sockets for expansion\n儲存裝置: 1x PCIe Gen5 M.2 slot 1x PCIe Gen4x4 M.2 slots Up to 4TB PCIe NVMe™ M.2 SSD *The storage capacity may differ by country and region. Please contact your local dealers or retailers for the latest product information. **If there is any abnormality that cannot be attributed to Gigabyte/AORUS during the warranty period, it is not covered by the warranty. More info: https://member.aorus.com/global/productwarranty\n鍵盤種類: 3-zone RGB Backlit Keyboard, Up to 1.7mm Key-travel (Support N-Key)\n連接埠: Left Side: 1 x DC in 1 x RJ-45 1 x HDMI 2.1 1 x Type-A support USB3.2 Gen2 1 x Type-C with Thunderbolt™5 (support USB4, DisplayPort™ 2.1 and Power Delivery 3.0) Right Side: 1 x Type-A support USB3.2 Gen2 1 x Type-C with Thunderbolt™4 (support USB4, DisplayPort™ 1.4 and Power Delivery 3.0) 1 x MicroSD (UHS-II) 1 x Audio Jack support mic / headphone combo\n音效: 4x 2W speakers Microphone Dolby Atmos® Smart Amp Technology\n通訊: WIFI 7 (802.11be 2x2) LAN: 1G Bluetooth v5.4\n視訊鏡頭: FHD (1080p) IR Webcam Build-in array Microphone Support Windows Hello Face Authentication\n安全裝置: Firmware-based TPM, supports Intel® Platform Trust Technology (Intel® PTT)\n電池: Li-ion 99Wh\n變壓器: 330W AC Adapter\n尺寸: 357 x 254 x 23~29.9 mm *The dimensions of the laptop may vary according to the configuration, manufacturing process and measurement method, please refer to the actual situation.\n重量: ~2.5 kg *The weight of the laptop may vary according to the configuration, manufacturing process and measurement method, please refer to the actual situation.\n顏色: Dark Tide",
+    "metadata": {
+      "sku": "BXH",
+      "type": "sku"
+    }
+  },
+  {
+    "text": "BXH | 作業系統: Windows 11 Pro (GIGABYTE recommends Windows 11 Pro for business.) Windows 11 Home UEFI Shell OS",
+    "metadata": {
+      "sku": "BXH",
+      "field": "作業系統",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BXH | 中央處理器: Intel® Core™ Ultra 9 Processor 275HX (36MB cache, up to 5.4 GHz, 24 cores, 24 threads)",
+    "metadata": {
+      "sku": "BXH",
+      "field": "中央處理器",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BXH | 顯示晶片: NVIDIA® GeForce RTX™ 5070 Ti Laptop GPU 12GB GDDR7 140W Maximum Graphics Power with Dynamic Boost* AI Boost : 1962 MHz (1762 MHz Boost Clock + 200 MHz OC)* *May vary by scenario",
+    "metadata": {
+      "sku": "BXH",
+      "field": "顯示晶片",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BXH | 顯示器: 16\" 16:10 OLED WQXGA (2560×1600) 240Hz, 1ms, DCIP-3 100%, 500nits (peak), 1,000,000:1 NVIDIA® G-SYNC® NVIDIA® Advanced Optimus VESA DisplayHDR True Black 500 VESA ClearMR 10000 Pantone® Validated TÜV Rheinland Low Blue Light Dolby Vision®",
+    "metadata": {
+      "sku": "BXH",
+      "field": "顯示器",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BXH | 記憶體: Up to 64GB DDR5 5600MHz * 2x SO-DIMM sockets for expansion",
+    "metadata": {
+      "sku": "BXH",
+      "field": "記憶體",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BXH | 儲存裝置: 1x PCIe Gen5 M.2 slot 1x PCIe Gen4x4 M.2 slots Up to 4TB PCIe NVMe™ M.2 SSD *The storage capacity may differ by country and region. Please contact your local dealers or retailers for the latest product information. **If there is any abnormality that cannot be attributed to Gigabyte/AORUS during the warranty period, it is not covered by the warranty. More info: https://member.aorus.com/global/productwarranty",
+    "metadata": {
+      "sku": "BXH",
+      "field": "儲存裝置",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BXH | 鍵盤種類: 3-zone RGB Backlit Keyboard, Up to 1.7mm Key-travel (Support N-Key)",
+    "metadata": {
+      "sku": "BXH",
+      "field": "鍵盤種類",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BXH | 連接埠: Left Side: 1 x DC in 1 x RJ-45 1 x HDMI 2.1 1 x Type-A support USB3.2 Gen2 1 x Type-C with Thunderbolt™5 (support USB4, DisplayPort™ 2.1 and Power Delivery 3.0) Right Side: 1 x Type-A support USB3.2 Gen2 1 x Type-C with Thunderbolt™4 (support USB4, DisplayPort™ 1.4 and Power Delivery 3.0) 1 x MicroSD (UHS-II) 1 x Audio Jack support mic / headphone combo",
+    "metadata": {
+      "sku": "BXH",
+      "field": "連接埠",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BXH | 音效: 4x 2W speakers Microphone Dolby Atmos® Smart Amp Technology",
+    "metadata": {
+      "sku": "BXH",
+      "field": "音效",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BXH | 通訊: WIFI 7 (802.11be 2x2) LAN: 1G Bluetooth v5.4",
+    "metadata": {
+      "sku": "BXH",
+      "field": "通訊",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BXH | 視訊鏡頭: FHD (1080p) IR Webcam Build-in array Microphone Support Windows Hello Face Authentication",
+    "metadata": {
+      "sku": "BXH",
+      "field": "視訊鏡頭",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BXH | 安全裝置: Firmware-based TPM, supports Intel® Platform Trust Technology (Intel® PTT)",
+    "metadata": {
+      "sku": "BXH",
+      "field": "安全裝置",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BXH | 電池: Li-ion 99Wh",
+    "metadata": {
+      "sku": "BXH",
+      "field": "電池",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BXH | 變壓器: 330W AC Adapter",
+    "metadata": {
+      "sku": "BXH",
+      "field": "變壓器",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BXH | 尺寸: 357 x 254 x 23~29.9 mm *The dimensions of the laptop may vary according to the configuration, manufacturing process and measurement method, please refer to the actual situation.",
+    "metadata": {
+      "sku": "BXH",
+      "field": "尺寸",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BXH | 重量: ~2.5 kg *The weight of the laptop may vary according to the configuration, manufacturing process and measurement method, please refer to the actual situation.",
+    "metadata": {
+      "sku": "BXH",
+      "field": "重量",
+      "type": "field"
+    }
+  },
+  {
+    "text": "BXH | 顏色: Dark Tide",
+    "metadata": {
+      "sku": "BXH",
+      "field": "顏色",
+      "type": "field"
+    }
+  }
+]

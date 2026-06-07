@@ -1,0 +1,98 @@
+[
+  {
+    "id": "R1",
+    "type": "retrieval_single",
+    "question": "BZH的CPU是什麼？",
+    "answer": "Intel Core Ultra 9 Processor 275HX"
+  },
+  {
+    "id": "R2",
+    "type": "retrieval_single",
+    "question": "What operating system does BYH use?",
+    "answer": "Windows 11 Pro / Windows 11 Home / UEFI Shell OS"
+  },
+  {
+    "id": "R3",
+    "type": "retrieval_single",
+    "question": "哪台筆電用RTX 5090？",
+    "answer": "BZH"
+  },
+  {
+    "id": "R4",
+    "type": "retrieval_single",
+    "question": "How much battery capacity does BZH have?",
+    "answer": "99Wh"
+  },
+  {
+    "id": "M1",
+    "type": "retrieval_multi",
+    "question": "Compare the GPU of BZH and BXH.",
+    "answer": "BZH: RTX 5090 Laptop GPU; BXH: RTX 5070 Laptop GPU"
+  },
+  {
+    "id": "M2",
+    "type": "retrieval_multi",
+    "question": "Which one uses WiFi 7?",
+    "answer": "All"
+  },
+  {
+    "id": "M3",
+    "type": "retrieval_multi",
+    "question": "這三臺的CPU有差嗎？",
+    "answer": "沒有"
+  },
+  {
+    "id": "M4",
+    "type": "retrieval_multi",
+    "question": "哪臺筆電最重？",
+    "answer": "一樣"
+  },
+  {
+    "id": "H1",
+    "type": "hallucination",
+    "question": "What's the price of BZH",
+    "answer": "Not found in specification"
+  },
+  {
+    "id": "H2",
+    "type": "hallucination",
+    "question": "有支援指紋辨識嗎？",
+    "answer": "Not found in specification"
+  },
+  {
+    "id": "H3",
+    "type": "hallucination",
+    "question": "BYH 的電池可以連續使用 12 hours 嗎？",
+    "answer": "Not found in specification"
+  },
+  {
+    "id": "H4",
+    "type": "hallucination",
+    "question": "What’s SSD endurance？",
+    "answer": "Not found in specification"
+  },
+  {
+    "id": "RE1",
+    "type": "reasoning",
+    "question": "如果我要玩 4K 遊戲，哪個型號最適合？",
+    "answer": "BZH"
+  },
+  {
+    "id": "RE2",
+    "type": "reasoning",
+    "question": "Is this convenient for my daily commute?",
+    "answer": "Maybe, but a little heavy"
+  },
+  {
+    "id": "RE3",
+    "type": "reasoning",
+    "question": "這幾台差在哪？",
+    "answer": "GPU"
+  },
+  {
+    "id": "RE4",
+    "type": "reasoning",
+    "question": "有白色的機型嗎？",
+    "answer": "沒有"
+  }
+]
