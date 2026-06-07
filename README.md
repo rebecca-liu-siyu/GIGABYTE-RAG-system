@@ -273,3 +273,14 @@ A response is considered **correct** if it contains the required information fro
 # Conclusion
 
 Based on both quantitative and qualitative evaluations, **Qwen2.5-3B-Instruct (Q4_K_M)** provides the best performance. Therefore, it was selected as the final model for the RAG system.
+
+# Future Work
+
+The current system performs well on simple retrieval-based questions but still has limitations when handling complex comparisons and domain-specific professional queries. Due to time and resource constraints, this project mainly demonstrates the basic workflow of building a Retrieval-Augmented Generation (RAG) system.
+
+Future improvements will focus on two aspects:
+
+**Model performance** : Fine-tuning the model on domain-specific data and expanding the RAG knowledge base with more specialized resources to improve accuracy and reasoning capabilities.
+**System efficiency**: Optimizing the retrieval and inference pipeline to improve response speed and scalability.
+
+Additionally, for practical deployment, the prompting strategy should be adapted to different application scenarios, enabling the AI agent to provide responses in a more appropriate and user-friendly manner.
