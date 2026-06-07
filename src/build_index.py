@@ -39,7 +39,7 @@ def main():
 
     print("Building FAISS index...")
 
-    index = faiss.IndexFlatIP(dim)  # cosine similarity (因為 normalize)
+    index = faiss.IndexFlatIP(dim)
     index.add(vectors)
 
     faiss.write_index(index, "data/faiss.index")

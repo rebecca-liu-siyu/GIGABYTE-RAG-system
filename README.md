@@ -36,7 +36,7 @@ Answer
 ## 1. Clone Repository
 
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/rebecca-liu-siyu/GIGABYTE-RAG-system.git
 
 cd rag_project
 ```
@@ -216,16 +216,11 @@ Measures the average token generation throughput during answer generation.
 
 ---
 
-# Quantitative Results
+## Quantitative Results
 
-All models were evaluated using the same:
+All models were evaluated using the same pipeline.
 
-* RAG pipeline
-* Benchmark dataset
-* Prompt template
-* Retrieval configuration
-
-## Performance Comparison
+### Performance Comparison
 
 | Model               | Avg Parser TTFT (s) | Avg Generator TTFT (s) | Avg TPS |
 | ------------------- | ------------------: | ---------------------: | ------: |
@@ -239,7 +234,7 @@ All models were evaluated using the same:
 
 ---
 
-# Qualitative Results
+## Qualitative Results
 
 | Model               | Correct Answers | Accuracy |
 | ------------------- | --------------: | -------: |
@@ -252,22 +247,22 @@ All benchmark questions were manually reviewed.
 
 A response is considered **correct** if it contains the required information from the specification and does not introduce critical factual errors.
 
-## Error Analysis
+### Error Analysis
 
-### Qwen2.5-3B-Instruct
+**Qwen2.5-3B-Instruct**
 
 * Highest overall accuracy
 * Strong multilingual understanding
 * Occasionally outputs Simplified Chinese characters
 * No significant factual errors observed
 
-### Gemma 3 4B
+**Gemma 3 4B**
 
 * Lower retrieval utilization efficiency
 * Weaker performance on comparison and reasoning questions
 * Less consistent handling of mixed Chinese-English queries
 
-### Llama 3.2 3B
+**Gemma 3 4B**
 
 * Good factual accuracy
 * Occasionally generates pinyin-like or unexpected language outputs
@@ -277,12 +272,4 @@ A response is considered **correct** if it contains the required information fro
 
 # Conclusion
 
-Based on both quantitative and qualitative evaluations, **Qwen2.5-3B-Instruct (Q4_K_M)** provides the best balance between:
-
-* Accuracy
-* Latency
-* Throughput
-* Traditional Chinese support
-* Resource efficiency
-
-Therefore, it was selected as the final model for the RAG system.
+Based on both quantitative and qualitative evaluations, **Qwen2.5-3B-Instruct (Q4_K_M)** provides the best performance. Therefore, it was selected as the final model for the RAG system.

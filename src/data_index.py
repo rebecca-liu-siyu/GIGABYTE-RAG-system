@@ -9,10 +9,8 @@ class DataIndex:
     def __init__(self, chunks):
         self.chunks = chunks
 
-        # (sku, field) → list of texts
         self.struct_index = defaultdict(list)
 
-        # sku → all chunks (optional)
         self.sku_index = defaultdict(list)
 
         self._build()
@@ -35,9 +33,6 @@ class DataIndex:
                 self.struct_index[(sku, field)].append(text)
                 self.sku_index[sku].append(item)
 
-    # =========================
-    # FAST LOOKUP
-    # =========================
     def get(self, sku, field):
         results = self.struct_index.get((sku, field), [])
         return results[0] if results else None
